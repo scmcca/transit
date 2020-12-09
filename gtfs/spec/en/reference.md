@@ -68,6 +68,8 @@ Signs applicable to Float or Integer field types:
 * **Non-zero** - Not equal to 0.
 * **Positive** - Greater than 0.
 
+_Example: **Non-negative Float** - A floating point number greater than or equal to 0._
+
 ## Dataset Files
 
 This specification defines the following files:
