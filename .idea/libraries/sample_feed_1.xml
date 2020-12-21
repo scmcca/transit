@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sample-feed-1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/gtfs/spec/en/examples/sample-feed-1.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
